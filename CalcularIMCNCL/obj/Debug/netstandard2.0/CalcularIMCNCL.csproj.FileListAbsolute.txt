@@ -1,0 +1,15 @@
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\CalcularIMCNCL.csproj.AssemblyReference.cache
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\CalcularIMCNCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\CalcularIMCNCL.AssemblyInfoInputs.cache
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\CalcularIMCNCL.AssemblyInfo.cs
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\CalcularIMCNCL.csproj.CoreCompileInputs.cache
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\bin\Debug\netstandard2.0\CalcularIMCNCL.deps.json
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\bin\Debug\netstandard2.0\CalcularIMCNCL.dll
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\bin\Debug\netstandard2.0\CalcularIMCNCL.pdb
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\CalcularIMCNCL.dll
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\refint\CalcularIMCNCL.dll
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\CalcularIMCNCL.pdb
+C:\Users\cd10\Documents\RubenVS\CalcularIMCNCL\CalcularIMCNCL\obj\Debug\netstandard2.0\ref\CalcularIMCNCL.dll
